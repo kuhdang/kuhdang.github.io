@@ -46,7 +46,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/kuhdang"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/imkevindang/"
   resume_instagram_url:         "https://www.instagram.com/kdxng/"
 resume_print_social_links:      true
 
